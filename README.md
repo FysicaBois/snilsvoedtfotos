@@ -1,2 +1,2 @@
 # snilsvoedtfotos
-snilsvoedfotos website desings
+Drop hier je files met designs voor de practhige website 'snilsvoedfotos'
